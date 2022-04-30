@@ -1,8 +1,8 @@
-pip3 install pyqt6 lxml pillow six ebooklib ply chardet pdfminer.six openpyxl pandas plotly pydub SpeechRecognition
+pip3 install pyqt6 PyQt6 lxml pillow six ebooklib ply chardet pdfminer.six openpyxl pandas plotly pydub SpeechRecognition
 
 brew install qpdf
 
-cd Downloads/QualCoderInstall-main/QualCoder-master
+cd ~/Downloads/QualCoderInstall-main/QualCoder-master
 
 
 python3 setup.py install
